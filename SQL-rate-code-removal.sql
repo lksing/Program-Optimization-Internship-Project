@@ -3,6 +3,7 @@
 -- steps to find latest status of program agency codes
 -- find rates and pgm table rows to remove
 
+-- NOTE: for confidentiality reasons, all field names, table names, and hotel names have been changed/generalized
 ---------------------------------
 
 -- Steps to find latest status of program agency codes
