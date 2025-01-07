@@ -1,6 +1,8 @@
 -- Program Usage Queries (Using hotel1 as example)
 -- Contents:
 -- rate program analysis
+
+-- NOTE: for confidentiality reasons, all field names, table names, and hotel names have been changed/generalized
 ------------------------------------------
 
 -- rate program analysis
