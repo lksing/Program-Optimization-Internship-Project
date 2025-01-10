@@ -6,7 +6,7 @@ In this project during my internship at a global travel technology company, I de
 
 **If you're short on time, feel free to directly view examples of my skills in this project:**
 
-- SQL - anonymized samples of queries [here](SQL-prep.sql) and [here](SQL-program-analysis.sql) I developed using aggregations, joins, and case statements to transform data for reporting.
+- SQL - anonymized samples of queries [here](SQL-rate-code-removal.sql) and [here](SQL-program-analysis.sql) I developed using aggregations, joins, and case statements to transform data for reporting.
 - Excel - a [PivotTable](#pivottable-for-programs-based-on-bookings) I created to synthesize a view of top performing hotel programs by bookings.
 - Stakeholder Communication - sample of how I would distill insights to an [executive](#executive-summary) audience vs. explaining the process to a [managerial](#approach) audience.
 
