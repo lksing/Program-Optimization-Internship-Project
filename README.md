@@ -2,7 +2,7 @@
 
 **Hi there! Here is my project contribution in a nutshell:**
 
-In this project during my internship at a global travel technology company, I developed SQL scripts for ongoing optimization of codes for negotiated hotel programs, resulting in the initial removal of over 50% of redundant codes. I presented my process improvement recommendations to key stakeholders, including account managers and hospitality industry executives, who responded with the feedback that my analysis was valuable and actionable for streamlining business processes. My efforts were the critical first steps for product teams to improve delivery of negotiated hotel programs according to long-time customer needs. 
+In this project during my internship at a global travel technology company, I developed SQL scripts for ongoing optimization of codes for negotiated hotel programs, resulting in the initial removal of over 50% of redundant codes. I presented my process improvement recommendations to key stakeholders, including account managers and hospitality industry executives, who responded with the feedback that my analysis was valuable and actionable. My efforts were the critical first steps for product teams to improve delivery of negotiated hotel programs according to long-time customer needs. 
 
 **If you're short on time, feel free to directly view examples of my skills in this project:**
 
