@@ -1,8 +1,8 @@
-# Program Optimization Internship Project
+# Sabre Internship Project: Program Code Optimization
 
 **Hi there! Here is my project contribution in a nutshell:**
 
-In this project during my internship at a global travel technology company, I developed SQL scripts for ongoing optimization of codes for negotiated hotel programs, resulting in the initial removal of over 50% of redundant codes. I presented my process improvement recommendations to key stakeholders, including account managers and hospitality industry executives, who responded with the feedback that my analysis was valuable and actionable. My efforts were the critical first steps for product teams to improve delivery of negotiated hotel programs according to long-time customer needs. 
+In this project during my internship at Sabre Corporation, a global travel technology company, I developed SQL scripts for ongoing optimization of codes for negotiated hotel programs, resulting in the initial removal of over 50% of redundant codes. I presented my process improvement recommendations to key stakeholders, including account managers and hospitality industry executives, who responded with the feedback that my analysis was valuable and actionable. My efforts were the critical first steps for product teams to improve delivery of negotiated hotel programs according to long-time customer needs. 
 
 **If you're short on time, feel free to directly view examples of my skills in this project:**
 
@@ -22,14 +22,16 @@ In this project during my internship at a global travel technology company, I de
 - [Learnings](#learnings)
 
 ## Executive Summary
-For several years, internal teams and external clients in the hospitality sector have expressed the need for better hotel program code management:
+For several years, internal teams and external clients in the hospitality sector have consistently requested improvements to the hotel program code system offered, with demand rising especially since post-COVID recovery of travel levels:
 - Internally, product teams required a method to identify inactive codes and optimize data management for key accounts.
-- Externally, suppliers sought (1) a more intuitive rate management process and (2) system enhancements to streamline hotel program operations.
+- Externally, hospitality executives sought (1) a more intuitive rate management process and (2) system enhancements to streamline hotel program operations.
 
-Due to limitations in system design and access for many years, there was a suspected significant, but unknown number of unused program codes that prevented internal teams from making comprehensive improvements to the system. Through my analysis, the product team has identified that over 50% of outdated rate codes can be removed. This is a critical first step for enabling the product team to carry out full outdated rate code deletion next quarter, which is expected to result in improvements in database efficiency performance, enhance system responsiveness, and improve the user experience for key accounts.
+Due to limitations in system design and access for many years, there was a suspected significant, but unknown number of unused program codes that prevented internal teams from making comprehensive improvements to the system. Through my analysis, the product team has identified that **over 50%** of outdated rate codes can be removed. 
+
+This is a critical first step for enabling the product team to carry out full outdated rate code deletion, which is expected to result in improvements in database efficiency performance, enhance system responsiveness, and improve the user experience for key accounts.
 
 ## Project Background
-For many years, internal hotel program code tables have enabled suppliers and customers access to hotel programs with negotiated rates, which represent a significant amount of bookings on the platform. Suppliers and customers have consistently requested improvements to the hotel program code system offered, with demand rising especially since post-COVID recovery of travel levels. 
+For many years, internal hotel program code tables have enabled suppliers and customers access to hotel programs with negotiated rates, which represent a significant amount of bookings in Sabre. Suppliers and customers have consistently requested improvements to the hotel program code system offered, with demand rising especially since post-COVID recovery of travel levels. 
 
 Due to limitations in system design and access for many years, there was a suspected significant, but unknown number of unused program codes that prevented internal teams from making comprehensive improvements to the system. Through my analysis, the product team has identified outdated rate codes for removal, resulting in expected improvements in database efficiency and performance.
 
@@ -69,6 +71,6 @@ Over 50% of outdated rate codes were identified for removal, with expected impro
 - **Anticipating Stakeholder Questions:** Before presenting to hospitality executives, I focused on keeping my findings concise and actionable but wasn’t sure what specific questions they would have. Reviewing my workflow in detail helped me confidently address queries about my methodology, reinforcing the importance of being able to provide clear explanations for stakeholder trust.
 
 ## Learnings
-- **I learned to ask often:** how can I do this process better? Initially, I relied on manual methods like Excel VLOOKUP, which became inefficient with large datasets. Recognizing these limitations, I explored better tools and transitioned to using BigQuery, significantly improving scalability and efficiency.
+- **I learned to ask often: How can I do this process better?** Initially, I relied on manual methods like importing csv files into Excel, which became inefficient with large datasets. Recognizing these limitations, I explored better tools and transitioned to using BigQuery, significantly improving scalability and efficiency.
 - **I also learned to ask myself frequently: why can I trust my numbers?** Since I was new to the industry, I lacked an intuitive feel for the data. To ensure accuracy, I regularly consulted subject matter experts to validate my queries and refine my approach.
 - **Lastly, I learned to take an active role in clarifying the ask.** Complex data relationships sometimes led the team off track from our primary goal, but learning to ask how each step contributed to program deletions helped us stay focused on the most impactful analysis.
